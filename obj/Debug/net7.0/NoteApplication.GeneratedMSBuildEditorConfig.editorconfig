@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NoteApplication
+build_property.RootNamespace = NoteApplication
+build_property.ProjectDir = C:\Users\Server\source\repos\NoteApplication\NoteApplication\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Server\source\repos\NoteApplication\NoteApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/Shared/_note_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ub3RlX2xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/_note_list/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX25vdGVfbGlzdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/_note_list/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX25vdGVfbGlzdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/_note_list/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX25vdGVfbGlzdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/_note_list/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX25vdGVfbGlzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/_note_list/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX25vdGVfbGlzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Server/source/repos/NoteApplication/NoteApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dko49fkakl

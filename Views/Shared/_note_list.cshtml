@@ -1,0 +1,11 @@
+﻿@model IEnumerable<NoteApplication.Models.Notes>
+
+
+@foreach(var item in Model)
+{
+    <a href="#">
+        <div>
+          @Html.DisplayFor(modelItem => item.TextNote)
+      </div>
+  </a>          
+}
